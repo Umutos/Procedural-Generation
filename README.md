@@ -18,11 +18,3 @@ Ce projet Unity permet de générer des cartes de terrain en utilisant du bruit 
 3. **Génération Automatique :** Activez l'option `autoUpdate` pour générer automatiquement la carte à chaque modification des paramètres.
 
 4. **Génération Manuelle :** Cliquez sur le bouton "Generated" dans l'inspecteur ou utilisez le bouton correspondant dans l'éditeur personnalisé.
-
-## Contribuer
-
-Si vous souhaitez contribuer à ce projet, veuillez créer une branche, apporter vos modifications et soumettre une demande de tirage. Nous accueillons les contributions de tous les niveaux d'expérience.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
